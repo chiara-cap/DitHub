@@ -1,0 +1,2 @@
+#!/bin/bash
+python -u main.py --config-file test/test_odinw13 --model-config-file groundingdino/config/GroundingDINO_SwinT_OGC_dt_dithub.py --model-checkpoint-path model_final.pth --output-dir /output/dithub_output --seed 3 --num-gpus 1 --shuffle-tasks --dithub --eval-only
