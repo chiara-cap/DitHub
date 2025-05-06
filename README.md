@@ -1,12 +1,6 @@
 <p align="center">
-  <img src=".asset/dithub_logo.png" alt="DitHub Logo" width="150" style="vertical-align: middle;"/> &nbsp;
+  <img src=".asset/dithub_logo.png" alt="DitHub Logo" width="400" style="vertical-align: middle;"/> &nbsp;
 </p>
-
-
-<p align="center">
-  <span style="font-size: 1.1em;">A Modular Framework for Incremental Open-Vocabulary Object Detection</span>
-</p>
-
 
 ##
 
