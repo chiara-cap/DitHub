@@ -15,7 +15,7 @@
     <img alt="Paper" src="https://img.shields.io/badge/arXiv-2503.09271-B31B1B?style=flat&logo=arxiv">
   </a>
   <br><br>
-  <img src=".asset/intro.png" alt="DitHub Overview" width="400"/>
+  <img src=".asset/intro.png" alt="DitHub Overview"/>
 </p>
 
 

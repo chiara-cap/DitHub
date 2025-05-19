@@ -374,7 +374,7 @@ def main(args):
         pre_trained_model_path = args.model_checkpoint_path
 
     config_dirs = args.config_file
-    TaskMemory().task_mapping = ODINW_OVERLAPPED_FILE_MAPPING if 'overlapped' in config_dirs else ODINW_13_FILE_MAPPING
+    TaskMemory().task_mapping = ODINW_OVERLAPPED_FILE_MAPPING if 'odinwo' in config_dirs else ODINW_13_FILE_MAPPING
 
     ow_config_files = glob.glob(os.path.join(config_dirs, "for_train", "*.py"))
     if args.shuffle_tasks:

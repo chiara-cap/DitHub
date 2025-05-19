@@ -54,9 +54,9 @@ use_add_names = True
 
 # DitHub
 dithub = True
-lora_r = 8
+lora_r = 16
 lora_alpha = 8
 lora_dropout = 0.0
 lora_out_min = 128
-lora_lr = 1e-4
-lora_weight_decay = 0.0
+lora_lr = 0.001
+lora_weight_decay = 0.01
